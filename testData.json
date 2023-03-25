@@ -1,0 +1,13 @@
+{
+  "name": "varun",
+  "keyOne": [
+    {"a": 1},
+    {"b": 2},
+    {"c": 4}
+  ],
+  "designation" : {
+    "first": "professor",
+    "second": "scientist"
+  },
+  "surname": "bisht"
+}
